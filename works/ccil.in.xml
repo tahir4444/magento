@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.23.0.2" platform="windows">
+	<Servers>
+		<Server>
+			<Host>143.95.251.23</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>cci28356</User>
+			<Pass encoding="base64">VmZAMyZ1KSNzRHtN</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ccil.in</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir>D:\xampp\htdocs\projects\ccil.com\</LocalDir>
+			<RemoteDir>1 0 7 ccil.in 7 wwwroot</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>ccil.in</Server>
+	</Servers>
+</FileZilla3>
